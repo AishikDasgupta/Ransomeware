@@ -21,7 +21,7 @@ To decrypt ☠️ the files:
 2. It will load the thekey.key 🗝 to decrypt the file contents
 3. Encrypted files will be decrypted 📝 and overwritten with the original plaintext
 
-## i About
+## About
 
 This program demonstrates basic file encryption 🔒 and decryption ☠️ using the Fernet module in Python 🐍. It generates a new Fernet key 🔑, loads the key to encrypt files in the current directory, and overwrites those files with encrypted contents. 
 
@@ -32,4 +32,5 @@ This serves as a simple example of symmetric encryption 🔒 and decryption ☠�
 ## 📜 License
 
 This project is open source and released under the [MIT License](LICENSE) 📜. Feel free to modify and reuse but please retain the disclaimer ⚠️.
+## There is more to come in this project, this is still under building.
 
